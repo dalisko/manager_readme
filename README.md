@@ -15,4 +15,8 @@ As for conflicts, they will inevitably occur and my opinion is that this is not 
 
 I think remote working is important. You shouldn't have to explain to me why you need to work remotely, it's fine! As long as the work is done, we can find the right balance. However, keep in mind that I believe team interaction is very important and the only way to solve a problem sometimes.
 
-Good work-life balance is vital. You should not only set good boundaries for yourself but you should have high expectations from your manager to design things the proper way so that every member of the team can enjoy that.
+Good work-life balance is vital. You should not only set good boundaries for yourself but you should have high expectations from your manager to design things the proper way so that every member of the team can enjoy that. I strongly believe that we can only manage working within a specific schedule and not having to think too much about work after that. There will be exceptions - it always happens. We just need to be respectful to each other and work proactively to avoid that.
+
+## Personality quirks
+
+I like seeing one's work. Always have something prepared to show because I think that's the best way to be convincing and save so much time. I also a bit obsessed with organization and good practices when it comes to code and software. I'll always feel so much more relaxed and hyped to work when I have to deal with clean code, workflows, presentations, etc. 
