@@ -14,3 +14,5 @@ As for conflicts, they will inevitably occur and my opinion is that this is not 
 1:1s should be happening regularly and I want to keep track of the conversations with the people I manage in order to be able to refer back to it. There are no specific rules for these and engineers shouldn't feel that the manager should necessarily lead the meeting. It's mostly about figuring out expectations and understanding each other better.
 
 I think remote working is important. You shouldn't have to explain to me why you need to work remotely, it's fine! As long as the work is done, we can find the right balance. However, keep in mind that I believe team interaction is very important and the only way to solve a problem sometimes.
+
+Good work-life balance is vital. You should not only set good boundaries for yourself but you should have high expectations from your manager to design things the proper way so that every member of the team can enjoy that.
